@@ -1,0 +1,31 @@
+#my-scroll-to-top {
+    position: fixed;
+    height: 50px;
+    width: 50px;
+    opacity: 0;
+    visibility: hidden;
+    cursor: pointer;
+    z-index: 1024;
+    transition: all 0.4s ease;
+}
+
+#my-scroll-to-top:after {
+    position: absolute;
+    content: '';
+    height: 15px;
+    width: 15px;
+    border-top: 3px solid;
+    top: 20px;
+    right: 0px;
+    left: 0;
+    margin: 0 auto;
+    border-left: 3px solid;
+    border-color: #476df4;
+    transform: rotate(45deg);
+    transition: all 0.4s ease;
+}
+
+#my-scroll-to-top.show-my-scroll-to-top {
+    opacity: 1;
+    visibility: visible;
+}
