@@ -2,7 +2,7 @@
 defined('ABSPATH') or die('Not allowed');
 
 /*
-Plugin Name: Click To Up
+Plugin Name: My Scroll To Top
 Description: Adds a custom scroll to top button to your WordPress site.
 Version: 1.0.0
 Author: CodeConfig
