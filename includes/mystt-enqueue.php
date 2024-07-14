@@ -1,4 +1,5 @@
 <?php
+defined('ABSPATH') or die('Not allowed');
 
 // Enqueue JavaScript and CSS files
 function mystt_script() {
