@@ -1,8 +1,8 @@
-=== my scroll to top ===
+=== My Scroll To Top ===
 Contributors: jakirmithunbd, ahanafistiyad
 Tags: scroll to top, scroll, scroll button, scroll to top button
-Requires at least: 5.0
-Tested up to: 6.4
+Requires at least: 5.2
+Tested up to: 6.6
 Requires PHP: 7.0
 Stable tag: 1.0.0
 License: GPLv2 or later
